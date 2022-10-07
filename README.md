@@ -1,6 +1,5 @@
 # calculadora
-
-A new Flutter project.
+Calculadora feita em flutter
 
 ## Getting Started
 
